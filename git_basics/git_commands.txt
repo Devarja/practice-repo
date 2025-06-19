@@ -1,0 +1,8 @@
+git init -initialize a empty repo in local system
+git add - add a file to the staging area
+git commit - take a snapshot of maded changes
+git push origin branch_name -pushing the code to the main branch
+git branch name_of branch - create a new branch
+git checkout -b  b_name - checkout from current branch
+git merge b_name
+
